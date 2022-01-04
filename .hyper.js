@@ -112,7 +112,6 @@ module.exports = {
     "hyper-active-tab",
     "verminal",
     "hyper-oceans16",
-    // `hyper-halcyon-theme`,
   ],
 
 
